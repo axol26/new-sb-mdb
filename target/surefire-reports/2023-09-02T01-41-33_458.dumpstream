@@ -1,0 +1,5 @@
+# Created at 2023-09-02T01:41:41.323
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Coding Projects\mongo_sb_react\movies\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
